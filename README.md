@@ -70,6 +70,9 @@ Windows:
 
 > USimCLI\windows\usim.exe upload build RollaballLinuxBuild\rollaball_linux_build.zip
 
+## Unity Simulation - Command Line Interface - CLI
+[Handy CLI Commands](https://github.com/Unity-Technologies/Unity-Simulation-Docs/blob/master/doc/cli.md?elqTrackId=58b91bdfd2b94d04bf96c374934bfa21&elqaid=2799&elqat=2)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
