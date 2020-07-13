@@ -24,6 +24,8 @@ Windows:
 ```
 After your Unity Cloud Project ID has been activated you can begin uploading the files and data needed for your simulation.
 
+![](Images/Unity_Activate_Project.png)
+
 ## Ground Control to Major Tom
 
 As of July 13, 2020 all commands have to be executed from the unity_simulation_bundle directory.
